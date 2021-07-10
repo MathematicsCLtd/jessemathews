@@ -1,5 +1,5 @@
 ## About
-Test [link](https://github.com/MathematicsCLtd/jessemathews/gh-pages/about.md)
+Test [link](https://mathematicscltd.github.io/jessemathews/about)
 
 ## Welcome to GitHub Pages
 
